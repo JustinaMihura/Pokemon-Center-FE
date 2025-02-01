@@ -1,1 +1,1 @@
-export const baseUrl = "https://pokemon-center.railway.app/";
+export const baseUrl = "https://pokemon-center-be-production.up.railway.app/";
